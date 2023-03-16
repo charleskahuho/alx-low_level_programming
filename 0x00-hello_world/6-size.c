@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main - Enret point
+* main - Entry point
 *
 * sizeof - determines variable size by data type prints to stdio
 *
