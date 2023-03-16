@@ -1,11 +1,11 @@
-/**
- * filename: printf.c
+/*
+ * File: printf.c
  */
 
 #include <stdio.h>
 
 /**
- * main - prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
+ * main - Entry point
  *
  * printf - function to print output
  *
