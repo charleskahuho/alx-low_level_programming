@@ -5,9 +5,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
  *
- * return:  value 0 (stated)
+ * printf - function to print output
+ *
+ * Return: 0
  */
 int main(void)
 {
