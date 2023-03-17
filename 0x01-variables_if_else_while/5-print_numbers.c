@@ -6,6 +6,13 @@
  */
 int main(void)
 {
-	char a=0;
+	char c = '0';
 
-	while
+	while (c <= '9')
+	{
+		putchar(c);
+		c++;
+	}
+	putchar(10);
+	return (0);
+}
