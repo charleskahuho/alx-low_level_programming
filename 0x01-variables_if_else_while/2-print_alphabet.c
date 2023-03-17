@@ -2,13 +2,13 @@
 /**
  * main - Etry point
  * putchar - input string
- * return: always 0
+ * Return: always 0
  */
 int main(void)
 {
 	char ch;
 
-	for(ch='a';ch<='z';ch++)
+	for (ch ='a'; ch<='z'; ch++)
 	{
 		putchar(ch);
 	}
