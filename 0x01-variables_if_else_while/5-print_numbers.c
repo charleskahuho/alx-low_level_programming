@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 * printf to print whole numbers
-* Return: Always 0 
+* Return: Always 0
 */
 int main(void)
 {
