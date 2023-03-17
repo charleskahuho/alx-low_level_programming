@@ -11,8 +11,6 @@
  * if...else if...else looping statements
  * return: 0
  */
-
-
 int main(void)
 {
 	int n;
