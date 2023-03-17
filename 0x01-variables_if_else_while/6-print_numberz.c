@@ -2,7 +2,7 @@
 /**
 * main -Entry point
 * putchar to print single digit numberz
-* Return: Always 0 
+* Return: Always 0
 */
 int main(void)
 {
