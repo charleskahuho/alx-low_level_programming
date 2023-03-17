@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 * putchar with for loop-writing alphabets
-* Return: Always 
+* Return: Always
 */
 int main(void)
 {
