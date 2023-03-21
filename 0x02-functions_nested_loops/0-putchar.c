@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include"main.h"
 /**
  * main - Entry point
  * -putchar print
@@ -9,6 +9,7 @@ int main(void)
 {
 	char a[] = "_putchar";
 	int i = 0;
+
 	while (i < 9)
 
 	{

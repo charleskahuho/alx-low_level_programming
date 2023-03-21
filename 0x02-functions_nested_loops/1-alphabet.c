@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - function to print alphabets
  *
- * Return: Always 0.
+ * Description: print alphabets in lowercase ascending order
  */
-void main(void)
+void print_alphabet(void)
 {
 	char ch;
 
