@@ -1,22 +1,19 @@
-#include"main.h"
+#include "main.h"
 /**
- * main - Entry point
- * -putchar print
- *  Return: Always 0
- */
-
+* main - Entry point
+* _putchar function to print a string.
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
-	char a[] = "_putchar";
+	char ch[] = "_putchar";
 	int i = 0;
 
-	while (i < 9)
-
+	while (i < 8)
 	{
-		_putchar(a[i]);
+		_putchar(ch[i]);
 		i++;
 	}
 	_putchar(10);
 	return (0);
 }
-
