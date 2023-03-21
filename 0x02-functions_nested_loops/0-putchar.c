@@ -13,7 +13,7 @@ int main(void)
 	while (i < 9)
 
 	{
-		_putchar(ch[i]);
+		_putchar(a[i]);
 		i++;
 	}
 	_putchar(10);
