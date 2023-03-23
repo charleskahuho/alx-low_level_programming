@@ -1,8 +1,9 @@
 #include"main.h"
+
 /**
  *print_numbers - function
  *
- * @i: first element
+ *
  * Return: none
  */
 void print_numbers(void)
