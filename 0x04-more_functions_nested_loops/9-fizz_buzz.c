@@ -2,9 +2,9 @@
 /**
  *main - function
  *
- *Return: none
+ *Return: 0
  */
-void main(void)
+int main(void)
 {
 	int i;
 
@@ -33,4 +33,5 @@ void main(void)
 			printf(" ");
 	}
 	printf("\n");
+	return (0);
 }
