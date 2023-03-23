@@ -27,12 +27,7 @@ void print_triangle(int size)
 				{
 					_putchar('#');
 				}
-/*
-*				for (c = 0; c > i; c++)
-*				{
-*					_putchar(' ');
-*				}
-*/			_putchar('#');
+			_putchar('#');
 			_putchar(10);
 			f--;
 		}
