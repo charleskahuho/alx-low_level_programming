@@ -2,8 +2,8 @@
 /**
  *swap_int - function
  *
- *b: second pointer
- *a: first pointer
+ *@b: second pointer
+ *@a: first pointer
  *Return: none
  */
 void swap_int(int *a, int *b)
