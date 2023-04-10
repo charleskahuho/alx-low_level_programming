@@ -1,4 +1,4 @@
 #1/bin/bash
 gcc -c *.c
-ar rc liball.a *.c
-ranlib liball.a
+ar rc libmy.a *.c
+ranlib libmy.a
