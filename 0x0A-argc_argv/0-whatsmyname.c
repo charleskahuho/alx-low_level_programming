@@ -1,8 +1,9 @@
 #include<stdio.h>
 /**
- * @argc:  # no of arguements
- * @argv: array
  * main - function
+ * @argc: number of arguements
+ * @argv: array
+ *
  * Return: 0
  */
 int main(__attribute__ ((unused))int argc, char *argv[])
