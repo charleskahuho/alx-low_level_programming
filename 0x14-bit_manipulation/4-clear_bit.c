@@ -7,14 +7,14 @@
  * @index: count
  *
  * Return: defined
- */
-int clear_bit(unsigned long int *n, unsigned long int index)
+et*/
+int clear_bit(unsigned long int *n, unsigned int index)
 {
 	int add;
 
 	if(index > 63)
 		return(-1);
-	add - 1 << index;
+	add = 1 << index;
 	*n = *n & (-add);
 	return (1);
 }

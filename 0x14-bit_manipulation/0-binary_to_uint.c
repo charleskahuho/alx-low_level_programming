@@ -1,3 +1,4 @@
+#include<stddef.h>
 #include "main.h"
 /**
  * binary_to_uint - function
@@ -21,7 +22,7 @@ unsigned int binary_to_uint(const char *b)
 	}
 	while(i >= 0)
 	{
-		k +=((b[i] = '0') * base);
+		k +=((b[i] == '0') * base);
 		base *= 2;
 		i--;
 	}
